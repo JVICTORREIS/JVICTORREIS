@@ -2,9 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-reis-b96323196)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@reisvictor16)
 
-🌱 Atualmente estou estudando **Python e Machine Learning**
-
-💬 Competências **Python, SQL, Power BI, Excel**
+💬 Competências **Python, SQL, Machine Learning, Estatística**
 
 📄 Contato **reisvictor16@gmail.com**
 
